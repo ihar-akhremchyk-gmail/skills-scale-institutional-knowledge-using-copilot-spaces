@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: owns release pipeline, coordinates deployments and rollback plans.
+- Quality Advocate: champions test coverage, acceptance criteria, and defect prevention.
+- Security Lead: conducts security reviews, manages risk register, leads incident response.
+- DevOps Engineer: maintains CI/CD pipelines, deployment automation, and environments.
+- Technical Writer: creates and maintains process docs, runbooks, and release notes.
+- Stakeholder Champion: tracks stakeholder concerns and ensures feedback is integrated.
 
 ## Key Artifacts
 - Project Charter / One-pager
