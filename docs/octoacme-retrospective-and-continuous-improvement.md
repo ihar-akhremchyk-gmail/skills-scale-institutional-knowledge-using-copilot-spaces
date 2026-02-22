@@ -28,6 +28,15 @@ After each sprint, release, or important milestone. Also after incidents.
 - Due date:
 - Success criteria:
 
+## Role Participation in Retrospectives
+- **PM:** Facilitates the retrospective and owns action item follow-up
+- **Quality Advocate:** Reports on quality metrics, defect trends, and test coverage gaps
+- **Release Manager:** Highlights release friction points and deployment learnings
+- **Security Lead:** Surfaces any security incidents or risk register changes since last retro
+- **DevOps Engineer:** Reviews pipeline reliability and automation improvements
+- **Technical Writer:** Notes documentation gaps identified during the sprint
+- **Stakeholder Champion:** Shares stakeholder feedback and satisfaction signals
+
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes

@@ -40,3 +40,15 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Security Lead Integration
+- The Security Lead is the owner of the security risk register and security-related escalations
+- Security reviews are required before releasing any feature with data handling, authentication, or infrastructure changes
+- Security Lead participates in weekly risk register reviews and flags any changes in security posture
+
+## Security Review Checklist
+- [ ] Threat model reviewed or updated for the feature/change
+- [ ] CI security scan results triaged (no unaccepted critical or high findings)
+- [ ] Compliance requirements verified (e.g., data retention, access controls)
+- [ ] Incident response runbook up to date
+- [ ] Security Lead sign-off recorded in the release doc
